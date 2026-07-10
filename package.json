@@ -1,0 +1,24 @@
+{
+  "name": "api-testing-portfolio",
+  "version": "1.0.0",
+  "description": "API testing with Postman and Newman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alizonekreate/api-testing-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alizonekreate/api-testing-portfolio/issues"
+  },
+  "homepage": "https://github.com/alizonekreate/api-testing-portfolio#readme",
+  "devDependencies": {
+    "newman": "^6.2.2"
+  }
+}
